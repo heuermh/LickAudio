@@ -1,0 +1,16 @@
+{
+  "slug": "dsh",
+  "name": "dsh",
+  "version": "0.0.1",
+  "license": "GPL-3.0-or-later",
+  "brand": "dsh",
+  "author": "Michael L Heuer",
+  "authorEmail": "heuermh@acm.org",
+  "authorUrl": "https://github.com/heuermh",
+  "pluginUrl": "https://github.com/heuermh/VCVRack-Plugins",
+  "manualUrl": "",
+  "sourceUrl": "https://github.com/heuermh/VCVRack-Plugins",
+  "donateUrl": "https://github.com/sponsors/heuermh",
+  "changelogUrl": "https://github.com/heuermh/VCVRack-Plugins/CHANGES.md",
+  "modules": []
+}
