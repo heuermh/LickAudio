@@ -12,5 +12,15 @@
   "sourceUrl": "https://github.com/heuermh/VCVRack-Plugins",
   "donateUrl": "https://github.com/sponsors/heuermh",
   "changelogUrl": "https://github.com/heuermh/VCVRack-Plugins/CHANGES.md",
-  "modules": []
+  "modules": [
+    {
+      "slug": "Tick",
+      "name": "Tick",
+      "description": "Static clock generator",
+      "tags": [
+        "Clock",
+        "Clock generator"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+
+    heuermh/VCVRack-Plugins.
+    Copyright (c) 2020 held jointly by the individual authors.
+
+    This file is part of heuermh/VCVRack-Plugins.
+
+    heuermh/VCVRack-Plugins is free software: you can redistribute it
+    and/or modify it under the terms of the GNU General Public License
+    as published by the Free Software Foundation, either version 3 of
+    the License, or (at your option) any later version.
+
+    heuermh/VCVRack-Plugins is distributed in the hope that it will be
+    useful, but WITHOUT ANY WARRANTY; without even the implied warranty
+    of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with heuermh/VCVRack-Plugins.  If not, see <http://www.gnu.org/licenses/>.
+
+-->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10.16mm"
+   height="128.5mm"
+   viewBox="0 0 10.16 128.5"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (2a5465c, 2020-09-20)"
+   sodipodi:docname="Tick.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2704118"
+     inkscape:cx="-18.583025"
+     inkscape:cy="242.83465"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="825"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#eeeeec;stroke-width:0.264583"
+       id="rect10"
+       width="10.16"
+       height="128.5"
+       x="0"
+       y="0" />
+    <g
+       aria-label="dsh"
+       id="text14"
+       style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583">
+      <path
+         d="m 4.2340234,125.90134 q 0,0.153 0.003,0.279 0.003,0.123 0.027,0.243 h -0.162 l -0.06,-0.213 h -0.012 q -0.06,0.105 -0.174,0.174 -0.114,0.069 -0.267,0.069 -0.3,0 -0.447,-0.189 -0.144,-0.189 -0.144,-0.591 0,-0.384 0.18,-0.582 0.183,-0.201 0.501,-0.201 0.111,0 0.174,0.012 0.066,0.012 0.141,0.039 v -0.624 h 0.24 z m -0.606,0.342 q 0.153,0 0.243,-0.078 0.09,-0.081 0.123,-0.243 v -0.744 q -0.054,-0.042 -0.123,-0.06 -0.069,-0.018 -0.183,-0.018 -0.207,0 -0.324,0.138 -0.117,0.135 -0.117,0.435 0,0.123 0.018,0.228 0.021,0.105 0.066,0.18 0.045,0.075 0.117,0.12 0.075,0.042 0.18,0.042 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke:none;stroke-width:0.264583"
+         id="path29" />
+      <path
+         d="m 5.3533516,126.00934 q 0,-0.09 -0.054,-0.141 -0.054,-0.051 -0.135,-0.084 -0.078,-0.036 -0.174,-0.066 -0.093,-0.033 -0.174,-0.081 -0.078,-0.051 -0.132,-0.129 -0.054,-0.078 -0.054,-0.21 0,-0.216 0.123,-0.315 0.123,-0.102 0.342,-0.102 0.162,0 0.27,0.03 0.111,0.027 0.192,0.066 l -0.057,0.198 q -0.069,-0.033 -0.168,-0.057 -0.096,-0.027 -0.207,-0.027 -0.132,0 -0.195,0.045 -0.06,0.045 -0.06,0.156 0,0.078 0.054,0.123 0.054,0.042 0.132,0.078 0.081,0.033 0.174,0.066 0.096,0.033 0.174,0.087 0.081,0.054 0.135,0.138 0.054,0.081 0.054,0.216 0,0.096 -0.033,0.18 -0.03,0.084 -0.096,0.144 -0.066,0.06 -0.165,0.093 -0.096,0.036 -0.228,0.036 -0.171,0 -0.291,-0.033 -0.12,-0.033 -0.201,-0.078 l 0.072,-0.204 q 0.069,0.039 0.18,0.072 0.111,0.033 0.225,0.033 0.129,0 0.213,-0.051 0.084,-0.051 0.084,-0.183 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke:none;stroke-width:0.264583"
+         id="path31" />
+      <path
+         d="m 6.9219766,126.41734 v -0.855 q 0,-0.117 -0.015,-0.204 -0.012,-0.09 -0.048,-0.147 -0.036,-0.06 -0.099,-0.09 -0.06,-0.03 -0.159,-0.03 -0.141,0 -0.255,0.093 -0.114,0.09 -0.147,0.234 v 0.999 h -0.24 v -2.1 h 0.24 v 0.768 h 0.012 q 0.078,-0.093 0.186,-0.147 0.111,-0.057 0.273,-0.057 0.126,0 0.219,0.03 0.093,0.027 0.153,0.099 0.063,0.072 0.09,0.195 0.03,0.12 0.03,0.306 v 0.906 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke:none;stroke-width:0.264583"
+         id="path33" />
+    </g>
+    <path
+       d="m 2.4259609,3.0401149 h 0.273 v -0.3465 l 0.28,-0.0805 v 0.427 h 0.476 v 0.245 h -0.476 v 0.9695 q 0,0.182 0.0455,0.259 0.0455,0.0735 0.154,0.0735 0.091,0 0.154,-0.0175 0.063,-0.021 0.14,-0.0525 l 0.063,0.2135 q -0.0945,0.0455 -0.2065,0.0735 -0.112,0.028 -0.2415,0.028 -0.2135,0 -0.301,-0.119 -0.0875,-0.1225 -0.0875,-0.406 v -1.022 h -0.273 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;line-height:1.25;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#a40000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="path20" />
+    <path
+       d="m 3.9059141,3.0401149 h 0.28 v 1.75 h -0.28 z m -0.0595,-0.532 q 0,-0.0805 0.0525,-0.1365 0.056,-0.0595 0.14,-0.0595 0.084,0 0.1435,0.0595 0.0595,0.056 0.0595,0.1365 0,0.0805 -0.0595,0.133 -0.0595,0.0525 -0.1435,0.0525 -0.084,0 -0.14,-0.0525 -0.0525,-0.0525 -0.0525,-0.133 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;line-height:1.25;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#a40000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="path22" />
+    <path
+       d="m 5.9764375,4.6746149 q -0.105,0.077 -0.2485,0.1155 -0.1435,0.042 -0.301,0.042 -0.203,0 -0.343,-0.063 -0.14,-0.0665 -0.231,-0.1855 -0.0875,-0.1225 -0.1295,-0.2905 -0.0385,-0.1715 -0.0385,-0.378 0,-0.4445 0.196,-0.679 0.196,-0.238 0.5635,-0.238 0.168,0 0.2835,0.028 0.119,0.0245 0.2135,0.0735 l -0.0805,0.2415 q -0.0805,-0.0455 -0.1785,-0.07 -0.098,-0.028 -0.21,-0.028 -0.497,0 -0.497,0.672 0,0.133 0.0245,0.2555 0.028,0.119 0.0875,0.2135 0.063,0.091 0.161,0.147 0.1015,0.056 0.2485,0.056 0.126,0 0.224,-0.0385 0.1015,-0.0385 0.1645,-0.0875 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;line-height:1.25;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#a40000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="path24" />
+    <path
+       d="m 6.8030391,4.0026149 h -0.161 v 0.7875 h -0.28 v -2.45 h 0.28 v 1.491 l 0.1435,-0.049 0.5425,-0.742 h 0.3255 l -0.5355,0.7035 -0.1435,0.1155 0.175,0.14 0.5845,0.791 h -0.3465 z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;line-height:1.25;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#a40000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       id="path26" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="components"
+     style="display:none">
+    <circle
+       style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.138279"
+       id="clockOut"
+       cx="5.0799999"
+       cy="29.408428"
+       r="4" />
+    <circle
+       style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.0345698"
+       id="clockLed"
+       cx="5.0799999"
+       cy="39.637608"
+       r="1" />
+  </g>
+</svg>
