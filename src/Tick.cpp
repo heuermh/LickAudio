@@ -43,7 +43,11 @@ struct Tick : Module {
 
   float phase = 0.0f;
   float trigger = 0.0f; // in sec
-  int state = 0;
+  int triggerState = 0;
+  float TRIGGER_LENGTH = 0.001f; // in sec
+  float light = 0.0f; // in sec
+  int lightState = 0;
+  float LIGHT_LENGTH = 0.05f; // in sec
 
   void process(const ProcessArgs& args) override {
     // f(0) = 120 BPM or 2 Hz
@@ -52,14 +56,15 @@ struct Tick : Module {
     // Accumulate the phase
     phase += freq * args.sampleTime;
     if (phase >= 1.0f) {
-      state = 1;
+      triggerState = 1;
+      lightState = 1;
       phase -= 1.0f;
     }
 
-    if (state) {
+    if (triggerState) {
       trigger += args.sampleTime;
-      if (trigger > 0.001f) {
-        state = 0;
+      if (trigger >= TRIGGER_LENGTH) {
+        triggerState = 0;
         trigger = 0.0f;
       }
       outputs[CLOCKOUT_OUTPUT].setVoltage(10.0f);
@@ -67,6 +72,18 @@ struct Tick : Module {
     }
     else {
       outputs[CLOCKOUT_OUTPUT].setVoltage(0.0f);
+      lights[CLOCKLED_LIGHT].setBrightness(0.0f);
+    }
+
+    if (lightState) {
+      light += args.sampleTime;
+      if (light >= LIGHT_LENGTH) {
+        lightState = 0;
+        light = 0.0f;
+      }
+      lights[CLOCKLED_LIGHT].setBrightness(1.0f);
+    }
+    else {
       lights[CLOCKLED_LIGHT].setBrightness(0.0f);
     }
   }
