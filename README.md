@@ -1,5 +1,5 @@
 # Lick Audio
-Virtual Eurorack Modules for (VCV Rack)[https://vcvrack.com]
+Virtual Eurorack Modules for [VCV Rack](https://vcvrack.com)
 
 ## Modules ##
 
