@@ -1,17 +1,17 @@
 {
-  "slug": "dsh",
-  "name": "dsh",
+  "slug": "LickAudio",
+  "name": "Lick Audio",
   "version": "1.0.1",
   "license": "GPL-3.0-or-later",
-  "brand": "dsh",
+  "brand": "Lick Audio",
   "author": "Michael L Heuer",
   "authorEmail": "heuermh@acm.org",
   "authorUrl": "https://github.com/heuermh",
-  "pluginUrl": "https://github.com/heuermh/VCVRack-Plugins",
+  "pluginUrl": "https://github.com/heuermh/LickAudio",
   "manualUrl": "",
-  "sourceUrl": "https://github.com/heuermh/VCVRack-Plugins",
+  "sourceUrl": "https://github.com/heuermh/LickAudio",
   "donateUrl": "https://github.com/sponsors/heuermh",
-  "changelogUrl": "https://github.com/heuermh/VCVRack-Plugins/CHANGES.md",
+  "changelogUrl": "https://github.com/heuermh/LickAudio/CHANGES.md",
   "modules": [
     {
       "slug": "Tick",

@@ -1,5 +1,5 @@
-# VCVRack-Plugins
-Plugins for VCVRack
+# Lick Audio
+Virtual Eurorack Modules for (VCV Rack)[https://vcvrack.com]
 
 ## Modules ##
 

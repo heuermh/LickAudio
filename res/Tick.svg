@@ -1,25 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--
-
-    heuermh/VCVRack-Plugins.
-    Copyright (c) 2020 held jointly by the individual authors.
-
-    This file is part of heuermh/VCVRack-Plugins.
-
-    heuermh/VCVRack-Plugins is free software: you can redistribute it
-    and/or modify it under the terms of the GNU General Public License
-    as published by the Free Software Foundation, either version 3 of
-    the License, or (at your option) any later version.
-
-    heuermh/VCVRack-Plugins is distributed in the hope that it will be
-    useful, but WITHOUT ANY WARRANTY; without even the implied warranty
-    of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with heuermh/VCVRack-Plugins.  If not, see <http://www.gnu.org/licenses/>.
-
--->
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -45,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.1865344"
-     inkscape:cx="7.650622"
-     inkscape:cy="46.077778"
+     inkscape:cx="0.83231469"
+     inkscape:cy="460.46864"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -80,24 +59,6 @@
        x="0"
        y="0" />
     <g
-       aria-label="dsh"
-       id="text14"
-       style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       transform="translate(0,-5.81734)">
-      <path
-         d="m 4.2340234,125.90134 q 0,0.153 0.003,0.279 0.003,0.123 0.027,0.243 h -0.162 l -0.06,-0.213 h -0.012 q -0.06,0.105 -0.174,0.174 -0.114,0.069 -0.267,0.069 -0.3,0 -0.447,-0.189 -0.144,-0.189 -0.144,-0.591 0,-0.384 0.18,-0.582 0.183,-0.201 0.501,-0.201 0.111,0 0.174,0.012 0.066,0.012 0.141,0.039 v -0.624 h 0.24 z m -0.606,0.342 q 0.153,0 0.243,-0.078 0.09,-0.081 0.123,-0.243 v -0.744 q -0.054,-0.042 -0.123,-0.06 -0.069,-0.018 -0.183,-0.018 -0.207,0 -0.324,0.138 -0.117,0.135 -0.117,0.435 0,0.123 0.018,0.228 0.021,0.105 0.066,0.18 0.045,0.075 0.117,0.12 0.075,0.042 0.18,0.042 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke:none;stroke-width:0.264583"
-         id="path29" />
-      <path
-         d="m 5.3533516,126.00934 q 0,-0.09 -0.054,-0.141 -0.054,-0.051 -0.135,-0.084 -0.078,-0.036 -0.174,-0.066 -0.093,-0.033 -0.174,-0.081 -0.078,-0.051 -0.132,-0.129 -0.054,-0.078 -0.054,-0.21 0,-0.216 0.123,-0.315 0.123,-0.102 0.342,-0.102 0.162,0 0.27,0.03 0.111,0.027 0.192,0.066 l -0.057,0.198 q -0.069,-0.033 -0.168,-0.057 -0.096,-0.027 -0.207,-0.027 -0.132,0 -0.195,0.045 -0.06,0.045 -0.06,0.156 0,0.078 0.054,0.123 0.054,0.042 0.132,0.078 0.081,0.033 0.174,0.066 0.096,0.033 0.174,0.087 0.081,0.054 0.135,0.138 0.054,0.081 0.054,0.216 0,0.096 -0.033,0.18 -0.03,0.084 -0.096,0.144 -0.066,0.06 -0.165,0.093 -0.096,0.036 -0.228,0.036 -0.171,0 -0.291,-0.033 -0.12,-0.033 -0.201,-0.078 l 0.072,-0.204 q 0.069,0.039 0.18,0.072 0.111,0.033 0.225,0.033 0.129,0 0.213,-0.051 0.084,-0.051 0.084,-0.183 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke:none;stroke-width:0.264583"
-         id="path31" />
-      <path
-         d="m 6.9219766,126.41734 v -0.855 q 0,-0.117 -0.015,-0.204 -0.012,-0.09 -0.048,-0.147 -0.036,-0.06 -0.099,-0.09 -0.06,-0.03 -0.159,-0.03 -0.141,0 -0.255,0.093 -0.114,0.09 -0.147,0.234 v 0.999 h -0.24 v -2.1 h 0.24 v 0.768 h 0.012 q 0.078,-0.093 0.186,-0.147 0.111,-0.057 0.273,-0.057 0.126,0 0.219,0.03 0.093,0.027 0.153,0.099 0.063,0.072 0.09,0.195 0.03,0.12 0.03,0.306 v 0.906 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke:none;stroke-width:0.264583"
-         id="path33" />
-    </g>
-    <g
        id="g966"
        transform="translate(0,4)">
       <path
@@ -116,6 +77,27 @@
          d="m 6.8030391,5.6905 h -0.161 V 6.478 h -0.28 v -2.45 h 0.28 v 1.491 l 0.1435,-0.049 0.5425,-0.742 h 0.3255 l -0.5355,0.7035 -0.1435,0.1155 0.175,0.14 0.5845,0.791 h -0.3465 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.5px;line-height:1.25;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#a40000;fill-opacity:1;stroke:none;stroke-width:0.264583"
          id="path26" />
+    </g>
+    <g
+       aria-label="lick"
+       id="text66"
+       style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;fill:#204a87;fill-opacity:1;stroke:none;stroke-width:0.264583">
+      <path
+         d="m 3.2279218,120.255 q 0,0.105 0.036,0.15 0.036,0.045 0.102,0.045 0.039,0 0.084,-0.006 0.045,-0.006 0.102,-0.027 l 0.027,0.189 q -0.048,0.024 -0.135,0.039 -0.084,0.015 -0.147,0.015 -0.135,0 -0.222,-0.075 -0.087,-0.078 -0.087,-0.261 v -1.8 h 0.24 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke-width:0.264583"
+         id="path60" />
+      <path
+         d="m 3.8908281,119.124 h 0.24 v 1.5 h -0.24 z m -0.051,-0.456 q 0,-0.069 0.045,-0.117 0.048,-0.051 0.12,-0.051 0.072,0 0.123,0.051 0.051,0.048 0.051,0.117 0,0.069 -0.051,0.114 -0.051,0.045 -0.123,0.045 -0.072,0 -0.12,-0.045 -0.045,-0.045 -0.045,-0.114 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke-width:0.264583"
+         id="path62" />
+      <path
+         d="m 5.6655624,120.525 q -0.09,0.066 -0.213,0.099 -0.123,0.036 -0.258,0.036 -0.174,0 -0.294,-0.054 -0.12,-0.057 -0.198,-0.159 -0.075,-0.105 -0.111,-0.249 -0.033,-0.147 -0.033,-0.324 0,-0.381 0.168,-0.582 0.168,-0.204 0.483,-0.204 0.144,0 0.243,0.024 0.102,0.021 0.183,0.063 l -0.069,0.207 q -0.069,-0.039 -0.153,-0.06 -0.084,-0.024 -0.18,-0.024 -0.426,0 -0.426,0.576 0,0.114 0.021,0.219 0.024,0.102 0.075,0.183 0.054,0.078 0.138,0.126 0.087,0.048 0.213,0.048 0.108,0 0.192,-0.033 0.087,-0.033 0.141,-0.075 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke-width:0.264583"
+         id="path64" />
+      <path
+         d="m 6.3740781,119.949 h -0.138 v 0.675 h -0.24 v -2.1 h 0.24 v 1.278 l 0.123,-0.042 0.465,-0.636 h 0.279 l -0.459,0.603 -0.123,0.099 0.15,0.12 0.501,0.678 h -0.297 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke-width:0.264583"
+         id="path66" />
     </g>
   </g>
   <g
