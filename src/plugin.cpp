@@ -26,8 +26,8 @@ Plugin* pluginInstance;
 void init(Plugin* p) {
   pluginInstance = p;
 
-  // Add modules here
-  // p->addModel(modelMyModule);
+  p->addModel(modelAtan);
+  p->addModel(modelShape);
   p->addModel(modelTick);
 
   // Any other plugin initialization may go here.

@@ -28,5 +28,6 @@ using namespace rack;
 extern Plugin* pluginInstance;
 
 // Declare each Model, defined in each module source file
-// extern Model* modelMyModule;
+extern Model* modelAtan;
+extern Model* modelShape;
 extern Model* modelTick;

@@ -21,6 +21,24 @@
         "Clock",
         "Clock generator"
       ]
+    },
+    {
+      "slug": "Shape",
+      "name": "Shape",
+      "description": "Wave shaper, x/(1.0 - abs(x))",
+      "tags": [
+        "Distortion",
+        "Waveshaper"
+      ]
+    },
+    {
+      "slug": "Atan",
+      "name": "Atan",
+      "description": "Wave shaper, atan(x)/(π/2)",
+      "tags": [
+        "Distortion",
+        "Waveshaper"
+      ]
     }
   ]
 }
