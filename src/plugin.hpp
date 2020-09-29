@@ -30,4 +30,5 @@ extern Plugin* pluginInstance;
 // Declare each Model, defined in each module source file
 extern Model* modelAtan;
 extern Model* modelShape;
+extern Model* modelTanh;
 extern Model* modelTick;

@@ -28,6 +28,7 @@ void init(Plugin* p) {
 
   p->addModel(modelAtan);
   p->addModel(modelShape);
+  p->addModel(modelTanh);
   p->addModel(modelTick);
 
   // Any other plugin initialization may go here.

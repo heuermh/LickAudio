@@ -33,7 +33,7 @@
    viewBox="0 0 15.052 128.5"
    id="svg5363"
    version="1.1"
-   inkscape:version="0.91+devel+osxmenu r12922"
+   inkscape:version="1.0.1 (2a5465c, 2020-09-20)"
    sodipodi:docname="3hp.svg">
   <defs
      id="defs5365" />
@@ -45,16 +45,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.68574913"
-     inkscape:cx="74.831098"
-     inkscape:cy="170.3619"
+     inkscape:cx="55.873728"
+     inkscape:cy="282.64786"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="600"
      inkscape:window-x="318"
-     inkscape:window-y="79"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="57"
+     inkscape:window-maximized="0"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata5368">
     <rdf:RDF>
@@ -63,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -85,32 +86,6 @@
        d="m 12.46164,273.41832 c 0,-0.54984 0.07987,-1.05034 -0.469952,-1.04731 l -8.7435858,0.0482 c -0.5498416,0.003 -0.4685421,0.44924 -0.4685421,0.99908 l 0,11.67336 c 0,0.54984 -0.033079,1.00046 0.5167709,1.00046 l 8.647128,0 c 0.54983,0 0.518181,-0.45062 0.518181,-1.00046 z"
        id="path38477"
        sodipodi:nodetypes="sssssssss" />
-    <g
-       transform="translate(2.446,169.64)"
-       aria-label="lick"
-       id="text66"
-       style="font-style:normal;font-weight:normal;font-size:3px;line-height:1.25;font-family:sans-serif;fill:#204a87;fill-opacity:1;stroke:none;stroke-width:0.26458299">
-      <path
-         inkscape:connector-curvature="0"
-         d="m 3.2279218,120.255 q 0,0.105 0.036,0.15 0.036,0.045 0.102,0.045 0.039,0 0.084,-0.006 0.045,-0.006 0.102,-0.027 l 0.027,0.189 q -0.048,0.024 -0.135,0.039 -0.084,0.015 -0.147,0.015 -0.135,0 -0.222,-0.075 -0.087,-0.078 -0.087,-0.261 l 0,-1.8 0.24,0 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke-width:0.26458299"
-         id="path60" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 3.8908281,119.124 0.24,0 0,1.5 -0.24,0 z m -0.051,-0.456 q 0,-0.069 0.045,-0.117 0.048,-0.051 0.12,-0.051 0.072,0 0.123,0.051 0.051,0.048 0.051,0.117 0,0.069 -0.051,0.114 -0.051,0.045 -0.123,0.045 -0.072,0 -0.12,-0.045 -0.045,-0.045 -0.045,-0.114 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke-width:0.26458299"
-         id="path62" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 5.6655624,120.525 q -0.09,0.066 -0.213,0.099 -0.123,0.036 -0.258,0.036 -0.174,0 -0.294,-0.054 -0.12,-0.057 -0.198,-0.159 -0.075,-0.105 -0.111,-0.249 -0.033,-0.147 -0.033,-0.324 0,-0.381 0.168,-0.582 0.168,-0.204 0.483,-0.204 0.144,0 0.243,0.024 0.102,0.021 0.183,0.063 l -0.069,0.207 q -0.069,-0.039 -0.153,-0.06 -0.084,-0.024 -0.18,-0.024 -0.426,0 -0.426,0.576 0,0.114 0.021,0.219 0.024,0.102 0.075,0.183 0.054,0.078 0.138,0.126 0.087,0.048 0.213,0.048 0.108,0 0.192,-0.033 0.087,-0.033 0.141,-0.075 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke-width:0.26458299"
-         id="path64" />
-      <path
-         inkscape:connector-curvature="0"
-         d="m 6.3740781,119.949 -0.138,0 0,0.675 -0.24,0 0,-2.1 0.24,0 0,1.278 0.123,-0.042 0.465,-0.636 0.279,0 -0.459,0.603 -0.123,0.099 0.15,0.12 0.501,0.678 -0.297,0 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';fill:#204a87;stroke-width:0.26458299"
-         id="path66" />
-    </g>
     <g
        id="g966"
        transform="translate(2.4459999,171.595)">
@@ -147,5 +122,26 @@
        cx="7.619885"
        cy="265.75299"
        r="2" />
+    <g
+       aria-label="lick"
+       id="text207"
+       style="font-size:3px;line-height:1.25;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';letter-spacing:0px;fill:#204a87;stroke-width:0.264583">
+      <path
+         d="m 5.0565624,289.76001 q 0,0.14 0.048,0.2 0.048,0.06 0.136,0.06 0.052,0 0.112,-0.008 0.06,-0.008 0.136,-0.036 l 0.036,0.252 q -0.064,0.032 -0.18,0.052 -0.112,0.02 -0.196,0.02 -0.18,0 -0.296,-0.1 -0.116,-0.104 -0.116,-0.348 v -2.4 h 0.32 z"
+         style="font-size:4px;fill:#204a87;stroke-width:0.264583"
+         id="path219" />
+      <path
+         d="m 5.9404374,288.25201 h 0.32 v 2 h -0.32 z m -0.068,-0.608 q 0,-0.092 0.06,-0.156 0.064,-0.068 0.16,-0.068 0.096,0 0.164,0.068 0.068,0.064 0.068,0.156 0,0.092 -0.068,0.152 -0.068,0.06 -0.164,0.06 -0.096,0 -0.16,-0.06 -0.06,-0.06 -0.06,-0.152 z"
+         style="font-size:4px;fill:#204a87;stroke-width:0.264583"
+         id="path221" />
+      <path
+         d="m 8.3067499,290.12001 q -0.12,0.088 -0.284,0.132 -0.164,0.048 -0.344,0.048 -0.232,0 -0.392,-0.072 -0.16,-0.076 -0.264,-0.212 -0.1,-0.14 -0.148,-0.332 -0.044,-0.196 -0.044,-0.432 0,-0.508 0.224,-0.776 0.224,-0.272 0.644,-0.272 0.192,0 0.324,0.032 0.136,0.028 0.244,0.084 l -0.092,0.276 q -0.092,-0.052 -0.204,-0.08 -0.112,-0.032 -0.24,-0.032 -0.568,0 -0.568,0.768 0,0.152 0.028,0.292 0.032,0.136 0.1,0.244 0.072,0.104 0.184,0.168 0.116,0.064 0.284,0.064 0.144,0 0.256,-0.044 0.116,-0.044 0.188,-0.1 z"
+         style="font-size:4px;fill:#204a87;stroke-width:0.264583"
+         id="path223" />
+      <path
+         d="m 9.2514374,289.35201 h -0.184 v 0.9 h -0.32 v -2.8 h 0.32 v 1.704 l 0.164,-0.056 0.62,-0.848 h 0.3719996 l -0.6119996,0.804 -0.164,0.132 0.2,0.16 0.6679996,0.904 H 9.9194374 Z"
+         style="font-size:4px;fill:#204a87;stroke-width:0.264583"
+         id="path225" />
+    </g>
   </g>
 </svg>
