@@ -9,9 +9,9 @@ Wave shaper, atan(x)/(n/2)
 
 Distortion, Waveshaper
 
-### Shape ###
+### Fabs ###
 
-Wave shaper, x/(1.0 - fabs(x))
+Wave shaper, x/(1.0 - fabs(x/amount))
 
 Distortion, Waveshaper
 

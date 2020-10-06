@@ -27,7 +27,7 @@ void init(Plugin* p) {
   pluginInstance = p;
 
   p->addModel(modelAtan);
-  p->addModel(modelShape);
+  p->addModel(modelFabs);
   p->addModel(modelTanh);
   p->addModel(modelTick);
 

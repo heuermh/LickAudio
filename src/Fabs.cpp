@@ -21,7 +21,7 @@
 */
 #include "plugin.hpp"
 
-struct Shape : Module {
+struct Fabs : Module {
   enum ParamIds {
     NUM_PARAMS
   };
@@ -37,7 +37,7 @@ struct Shape : Module {
     NUM_LIGHTS
   };
 
-  Shape() {
+  Fabs() {
     config(NUM_PARAMS, NUM_INPUTS, NUM_OUTPUTS, NUM_LIGHTS);
   }
 
@@ -55,19 +55,19 @@ struct Shape : Module {
   }
 };
 
-struct ShapeWidget : ModuleWidget {
-  ShapeWidget(Shape* module) {
+struct FabsWidget : ModuleWidget {
+  FabsWidget(Fabs* module) {
     setModule(module);
-    setPanel(APP->window->loadSvg(asset::plugin(pluginInstance, "res/Shape.svg")));
+    setPanel(APP->window->loadSvg(asset::plugin(pluginInstance, "res/Fabs.svg")));
 
     addChild(createWidget<ScrewSilver>(Vec(RACK_GRID_WIDTH, 0)));
     addChild(createWidget<ScrewSilver>(Vec(box.size.x - 2 * RACK_GRID_WIDTH, 0)));
     addChild(createWidget<ScrewSilver>(Vec(RACK_GRID_WIDTH, RACK_GRID_HEIGHT - RACK_GRID_WIDTH)));
     addChild(createWidget<ScrewSilver>(Vec(box.size.x - 2 * RACK_GRID_WIDTH, RACK_GRID_HEIGHT - RACK_GRID_WIDTH)));
 
-    addInput(createInputCentered<PJ301MPort>(mm2px(Vec(7.62, 97.253)), module, Shape::IN_INPUT));
-    addOutput(createOutputCentered<PJ301MPort>(mm2px(Vec(7.62, 112.253)), module, Shape::OUT_OUTPUT));
+    addInput(createInputCentered<PJ301MPort>(mm2px(Vec(7.62, 97.253)), module, Fabs::IN_INPUT));
+    addOutput(createOutputCentered<PJ301MPort>(mm2px(Vec(7.62, 112.253)), module, Fabs::OUT_OUTPUT));
   }
 };
 
-Model* modelShape = createModel<Shape, ShapeWidget>("Shape");
+Model* modelFabs = createModel<Fabs, FabsWidget>("Fabs");
