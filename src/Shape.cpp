@@ -41,10 +41,15 @@ struct Shape : Module {
     config(NUM_PARAMS, NUM_INPUTS, NUM_OUTPUTS, NUM_LIGHTS);
   }
 
+  // add knob param/cv input
+  // range 1.0 - 32.0 seems reasonable
+  float amount = 32.0f;
+
   void process(const ProcessArgs& args) override {
     float v = inputs[IN_INPUT].getVoltage();
     v = rescale(v, -5.0, 5.0, -1.0, 1.0);
-    v = v/(1.0f - fabs(v));
+    v = v/(1.0f - fabs(v/amount));
+    v = clamp(v, -1.0, 1.0);
     v = rescale(v, -1.0, 1.0, -5.0, 5.0);
     outputs[OUT_OUTPUT].setVoltage(v);
   }
