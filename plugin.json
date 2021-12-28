@@ -16,7 +16,7 @@
     {
       "slug": "Atan",
       "name": "Atan",
-      "description": "Wave shaper, atan(x)/(π/2)",
+      "description": "Wave shaper, atan(x)/(\u03c0/2)",
       "tags": [
         "Distortion",
         "Waveshaper"
