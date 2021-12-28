@@ -26,6 +26,7 @@ struct Fabs : Module {
     NUM_PARAMS
   };
   enum InputIds {
+    AMOUNT_INPUT,
     IN_INPUT,
     NUM_INPUTS
   };
@@ -41,11 +42,11 @@ struct Fabs : Module {
     config(NUM_PARAMS, NUM_INPUTS, NUM_OUTPUTS, NUM_LIGHTS);
   }
 
-  // add knob param/cv input
-  // range 1.0 - 32.0 seems reasonable
-  float amount = 32.0f;
-
   void process(const ProcessArgs& args) override {
+    float amount = inputs[AMOUNT_INPUT].getVoltage();
+    amount = clamp(amount, 0.0, 10.0);
+    amount = rescale(amount, 0.0, 10.0, 32.0, 2.0);
+
     float v = inputs[IN_INPUT].getVoltage();
     v = rescale(v, -5.0, 5.0, -1.0, 1.0);
     v = v/(1.0f - fabs(v/amount));
@@ -65,6 +66,7 @@ struct FabsWidget : ModuleWidget {
     addChild(createWidget<ScrewSilver>(Vec(RACK_GRID_WIDTH, RACK_GRID_HEIGHT - RACK_GRID_WIDTH)));
     addChild(createWidget<ScrewSilver>(Vec(box.size.x - 2 * RACK_GRID_WIDTH, RACK_GRID_HEIGHT - RACK_GRID_WIDTH)));
 
+    addInput(createInputCentered<PJ301MPort>(mm2px(Vec(7.62, 42.0)), module, Fabs::AMOUNT_INPUT));
     addInput(createInputCentered<PJ301MPort>(mm2px(Vec(7.62, 97.253)), module, Fabs::IN_INPUT));
     addOutput(createOutputCentered<PJ301MPort>(mm2px(Vec(7.62, 112.253)), module, Fabs::OUT_OUTPUT));
   }

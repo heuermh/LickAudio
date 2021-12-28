@@ -21,20 +21,20 @@
 
 -->
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="15.052mm"
    height="128.5mm"
    viewBox="0 0 15.052 128.5"
    id="svg5363"
    version="1.1"
-   inkscape:version="1.0.1 (2a5465c, 2020-09-20)"
-   sodipodi:docname="Fabs.svg">
+   inkscape:version="1.1-dev (b8b2f67, 2020-09-09)"
+   sodipodi:docname="Fabs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs5365" />
   <sodipodi:namedview
@@ -44,14 +44,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.971986"
-     inkscape:cx="32.212239"
-     inkscape:cy="40.462225"
+     inkscape:zoom="0.96979571"
+     inkscape:cx="-98.98992"
+     inkscape:cy="280.47144"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1197"
-     inkscape:window-height="665"
+     inkscape:window-width="1298"
+     inkscape:window-height="736"
      inkscape:window-x="32"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -146,5 +146,12 @@
        cx="7.619885"
        cy="112.25293"
        r="2" />
+    <circle
+       style="display:inline;opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="amount"
+       cx="7.619885"
+       cy="42"
+       r="2"
+       inkscape:label="#amount" />
   </g>
 </svg>
