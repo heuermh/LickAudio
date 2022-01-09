@@ -1,7 +1,7 @@
 /*
 
     Lick Audio.
-    Copyright (c) 2020 held jointly by the individual authors.
+    Copyright (c) 2020-2022 held jointly by the individual authors.
 
     This file is part of Lick Audio.
 
