@@ -5,7 +5,7 @@ Virtual Eurorack Modules for [VCV Rack](https://vcvrack.com)
 
 ### Atan ###
 
-Wave shaper, atan(x)/(n/2)
+Wave shaper, atan(x)/(&pi;/2)
 
 Distortion, Waveshaper
 
